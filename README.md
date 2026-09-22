@@ -23,8 +23,9 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,c,figma,aws,docker,jenkins,kubernetes,postman,typescript" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,c,figma,aws,docker,jenkins,kubernetes,postman,typescript" />
 </p>
 
 ---
@@ -51,9 +52,10 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/kavinraj-s-0a4481292" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/kavinraj25" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="mailto:kavinrajsaravanakumar@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kavinraj-s-0a4481292" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a><br/>
+<a href="mailto:kavinrajsaravanakumar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" /></a><br/>
+<a href="https://v0-kavin-raj-portfolio.vercel.app/"><img src="https://img.icons8.com/?size=100&id=QuBm3vAjadj8&format=png&color=000000" alt="Portfolio" height="30" width="40" /></a>
+
 </p>
 
 <div align="center">
